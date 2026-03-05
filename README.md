@@ -22,6 +22,8 @@ Some common issues faced by support teams include:
 
 The purpose of this project is to apply analytics and visualization techniques to identify performance issues and provide insights that can help improve the efficiency and effectiveness of IT support teams.
 
+---
+
 ## 📂 Dataset Description
 
 The dataset used in this project contains records of IT support interactions generated when customers raise issues related to products or services. Each entry represents an individual support ticket and includes details about the customer, the issue reported, ticket status, response metrics, and feedback provided after the issue is resolved.
