@@ -71,3 +71,30 @@ Before performing analysis, the dataset was cleaned and prepared using the follo
 ## 🔍 Key Insights
 
 The analysis of this dataset helps in identifying patterns in support operations such as ticket handling efficiency, response times, and customer satisfaction trends. These insights can help organizations optimize their IT support processes and improve service performance.
+## 🛠 Tools & Technologies Used
+
+The following tools and technologies were used to analyze the dataset and build the project dashboard:
+
+- **Power BI** – Used to create interactive dashboards and visual reports.
+- **Power Query** – Used for transforming and cleaning raw data before analysis.
+- **Microsoft Excel** – Used for basic data exploration and initial dataset review.
+- **Git & GitHub** – Used for version control and to manage the project repository.
+- **Data Cleaning Methods** – Techniques such as trimming spaces, replacing incorrect values, and correcting data types were applied to improve data quality.
+
+---
+
+## 📈 Project Outcome
+
+This project highlights how structured data analysis and visualization can support organizations in improving their IT support services. By analyzing support ticket data, several improvements can be achieved:
+
+- Better monitoring of IT support team performance  
+- Faster resolution of customer issues  
+- Improved compliance with service level agreements (SLA)  
+- Higher customer satisfaction levels  
+- More informed decision-making based on data insights  
+
+---
+
+## 👤 Author
+
+**Jahnavi Bellapukonda**  
