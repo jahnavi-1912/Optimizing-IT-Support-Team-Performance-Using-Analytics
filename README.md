@@ -21,3 +21,53 @@ Some common issues faced by support teams include:
 - Data inconsistencies that affect decision-making  
 
 The purpose of this project is to apply analytics and visualization techniques to identify performance issues and provide insights that can help improve the efficiency and effectiveness of IT support teams.
+
+## 📂 Dataset Description
+
+The dataset used in this project contains records of IT support interactions generated when customers raise issues related to products or services. Each entry represents an individual support ticket and includes details about the customer, the issue reported, ticket status, response metrics, and feedback provided after the issue is resolved.
+
+This information helps analyze how efficiently support teams handle requests, how quickly issues are addressed, and how satisfied customers are with the support service. By examining these factors, useful insights can be obtained to improve IT support operations and overall service quality.
+
+---
+
+## 📊 Dataset Columns
+
+Below are some important fields available in the dataset:
+
+- **Ticket ID** – A unique identification number assigned to each support request.
+- **Customer Name** – Name of the person who submitted the support ticket.
+- **Customer Email** – Email address used for communication regarding the issue.
+- **Customer Age** – Age of the customer raising the request.
+- **Customer Gender** – Gender of the customer submitting the ticket.
+- **Product Purchased** – The product or service associated with the reported issue.
+- **Date of Purchase** – The date when the product or service was originally purchased.
+- **Ticket Type** – Category of the issue such as technical problem, billing issue, service request, or product inquiry.
+- **Ticket Subject** – A short title summarizing the reported issue.
+- **Ticket Description** – Detailed explanation provided by the customer about the problem.
+- **Ticket Status** – Current stage of the ticket such as Open, In Progress, Resolved, or Closed.
+- **Resolution** – Description of how the issue was solved by the support team.
+- **Ticket Priority** – Indicates the urgency level of the ticket (Low, Medium, High, Critical).
+- **Ticket Channel** – Method used by the customer to raise the request such as Email, Phone, Chat, or Web Portal.
+- **First Response Time** – Time taken by the support team to respond to the ticket initially.
+- **Time to Resolution** – Total duration required to fully resolve the issue.
+- **Customer Satisfaction Rating** – Rating given by the customer after the issue has been resolved.
+
+---
+
+## 🧹 Data Preprocessing Steps
+
+Before performing analysis, the dataset was cleaned and prepared using the following steps:
+
+- Removed duplicate entries
+- Handled missing or incomplete values
+- Standardized category labels
+- Trimmed unnecessary spaces in text fields
+- Normalized text formatting
+- Corrected column data types (date, numeric, text)
+- Standardized priority and ticket status values
+
+---
+
+## 🔍 Key Insights
+
+The analysis of this dataset helps in identifying patterns in support operations such as ticket handling efficiency, response times, and customer satisfaction trends. These insights can help organizations optimize their IT support processes and improve service performance.
