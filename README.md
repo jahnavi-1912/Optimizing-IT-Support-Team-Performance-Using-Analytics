@@ -1,6 +1,6 @@
 # 📊 Optimizing IT Support Team Performance Using Analytics
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on examining IT support team data to better understand how support services are being delivered. By analyzing ticket information and performance metrics, the project aims to highlight areas where efficiency can be improved and response times can be reduced.
 
 Through data analysis and visualization, meaningful insights are generated that help organizations manage support operations more effectively and improve the overall service experience.
@@ -9,7 +9,7 @@ This project was carried out as part of my internship through Infosys Springboar
 
 ---
 
-## ❓ Problem Statement
+##  Problem Statement
 IT support teams deal with a large number of service requests every day. Managing these requests efficiently can be challenging, especially when teams need to maintain service quality while handling high workloads.
 
 Some common issues faced by support teams include:
@@ -24,7 +24,7 @@ The purpose of this project is to apply analytics and visualization techniques t
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 The dataset used in this project contains records of IT support interactions generated when customers raise issues related to products or services. Each entry represents an individual support ticket and includes details about the customer, the issue reported, ticket status, response metrics, and feedback provided after the issue is resolved.
 
@@ -32,7 +32,7 @@ This information helps analyze how efficiently support teams handle requests, ho
 
 ---
 
-## 📊 Dataset Columns
+##  Dataset Columns
 
 Below are some important fields available in the dataset:
 
@@ -56,7 +56,7 @@ Below are some important fields available in the dataset:
 
 ---
 
-## 🧹 Data Preprocessing Steps
+##  Data Preprocessing Steps
 
 Before performing analysis, the dataset was cleaned and prepared using the following steps:
 
@@ -70,10 +70,10 @@ Before performing analysis, the dataset was cleaned and prepared using the follo
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 The analysis of this dataset helps in identifying patterns in support operations such as ticket handling efficiency, response times, and customer satisfaction trends. These insights can help organizations optimize their IT support processes and improve service performance.
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 The following tools and technologies were used to analyze the dataset and build the project dashboard:
 
